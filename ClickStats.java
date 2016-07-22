@@ -67,7 +67,7 @@ public class ClickStats {
 		int n = 0;
 		
 		InputStreamReader read = new InputStreamReader(System.in);
-        BufferedReader valeurs = new BufferedReader(read);
+        	BufferedReader valeurs = new BufferedReader(read);
         
 		while (n>=0) {
 			System.out.print (" ==> Action : ");
